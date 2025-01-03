@@ -26,7 +26,7 @@ const Services = () => {
                 Premium Quality Clothing
               </h2>
               <p className="text-[#5D4F3D] text-lg font-light tracking-tight transition-colors">
-                Discover a curated selection of high-quality women's clothing, designed to provide comfort, elegance, and durability. Our collection is crafted to ensure you always look your best.
+                Discover a curated selection of high-quality women&apos;s clothing, designed to provide comfort, elegance, and durability. Our collection is crafted to ensure you always look your best.
               </p>
             </div>
           </div>
@@ -53,7 +53,7 @@ const Services = () => {
                 <MdOutlineAssignmentReturn className="text-[#9C8A6A] text-4xl" />
               </div>
               <h2 className="text-[#5D4F3D] text-lg font-bold tracking-tight lg:text-xl mb-3">
-                Easy Returns & Exchanges
+                Easy Returns &apos;& Exchanges
               </h2>
               <p className="text-[#5D4F3D] text-lg font-light tracking-tight transition-colors">
                 Not satisfied with your purchase? Our simple return and exchange process ensures you can easily find the perfect outfit that meets your expectations.
